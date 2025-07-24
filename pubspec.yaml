@@ -1,7 +1,14 @@
-dependencies:
-  flutter:
-    sdk: flutter
-  firebase_core: ^2.27.0
-  firebase_auth: ^4.17.8
-  cloud_firestore: ^4.15.8
-  # ...and so on for all the others
+ dependencies:
+   flutter:
+     sdk: flutter
+   firebase_core: ^2.27.0
+   firebase_auth: ^4.17.8
+   cloud_firestore: ^4.15.8
+   shared_preferences: ^2.2.2
+   intl: ^0.19.0
+   signature: ^5.4.1
+   file_saver: ^0.2.12
+   pdf: ^3.10.8
+   printing: ^5.12.0
+   collection: ^1.18.0
+   universal_html: ^2.2.4
